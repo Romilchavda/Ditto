@@ -1,4 +1,4 @@
-![Animated Background]([https://i.imgur.com/ECZKmlO.gif](https://cdn.discordapp.com/attachments/1275424854732050445/1286604542867148811/20240920_125916.png?ex=66ee835a&is=66ed31da&hm=61a523e05aa2bcad65566dfa5a045ed0a4504f7807e30489bc905793e62fed4e&))
+![Background]([https://i.imgur.com/ECZKmlO.gif](https://cdn.discordapp.com/attachments/1275424854732050445/1286604542867148811/20240920_125916.png?ex=66ee835a&is=66ed31da&hm=61a523e05aa2bcad65566dfa5a045ed0a4504f7807e30489bc905793e62fed4e&))
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   BOT GHOST STATUS REMOVER
